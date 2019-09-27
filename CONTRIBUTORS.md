@@ -939,6 +939,8 @@
 
 -[@jshonsamson](https://github.com/jshonsamson)
 
+-[@gibstock](https://github.com/gibstock)
+
 -[@JohnAyling1979](https://github.com/JohnAyling1979)
 
 -[@daniilosmol](https://github.com/daniilosmol)
@@ -4645,4 +4647,4 @@
 -[@mlsmall](https://github.com/mlsmall)
 
 
--[@gibstock](https://github.com/gibstock)
+
